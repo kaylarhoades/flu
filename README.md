@@ -5,3 +5,4 @@
 # conda.sh
 # https://docs.google.com/presentation/d/1CGOebLC6FZPsCn3Bwy2tyHOOIDTQDSpUzrj0ClJlti4/edit#slide=id.p link to R's GEN725 project to use as a model for our analysis 
 # Influenza A virus (A/Alabama/01/2020(H1N1)) segment 2 polymerase PB1 (PB1) gene, complete cds; and nonfunctional PB1-F2 protein (PB1-F2) gene, complete sequence https://www.ncbi.nlm.nih.gov/nuccore/MT244085.1?report=fasta 
+dghdhf
