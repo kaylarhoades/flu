@@ -1,4 +1,4 @@
-# flu for this project we are picking 25 influenza A strains from 2019 and 25 from 2020 and then constructing a phylogenetic tree.
+# flu for this project we are picking 12 influenza A strains from 2019 and 12 from 2020 and then constructing a phylogenetic tree.
 
 # H5N1 (avian influenza A) is out group
 # https://pubmed.ncbi.nlm.nih.gov/9360372/ info about hemogglutinin and its role in influenza virus transmission
