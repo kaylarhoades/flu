@@ -3,3 +3,4 @@
 # H1N1 is out group
 # https://pubmed.ncbi.nlm.nih.gov/9360372/ info about hemogglutinin and its role in influenza virus transmission
 # conda.sh
+# https://docs.google.com/presentation/d/1CGOebLC6FZPsCn3Bwy2tyHOOIDTQDSpUzrj0ClJlti4/edit#slide=id.p link to R's GEN725 project to use as a model for our analysis 
