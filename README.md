@@ -11,3 +11,4 @@
 # HA is responsible for bidning of the virus to cell surface receptors, and it mediatese liberation of the viral genome into the cytoplasm through membrane fusion https://pubmed.ncbi.nlm.nih.gov/9360372/#:~:text=The%20hemagglutinin(HA)%20of%20influenza,the%20cytoplasm%20through%20membrane%20fusion. 
 # http://assets.geneious.com/manual/8.0/GeneiousManualsu64.html how to align in clustlw
 # sequences are being put on a google doc so they can be uploaded all at once
+# presentation link https://docs.google.com/presentation/d/1UPxW0D_jq9qnWfWj21y9nlx0BLGnr1kqd5Tsy6zpaTw/edit?usp=sharing
