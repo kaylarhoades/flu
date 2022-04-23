@@ -12,3 +12,16 @@
 # http://assets.geneious.com/manual/8.0/GeneiousManualsu64.html how to align in clustlw
 # sequences are being put on a google doc so they can be uploaded all at once: https://docs.google.com/document/d/1puxg5FQv2mZlGy4V6Lnj8Xv2-zC8BJUws7JdhahDVek/edit# 
 # presentation link https://docs.google.com/presentation/d/1UPxW0D_jq9qnWfWj21y9nlx0BLGnr1kqd5Tsy6zpaTw/edit?usp=sharing
+## 2019 HA H1N1:
+# Influenza A virus (A/Alabama/03/2019(H1N1)) segment 4 hemagglutinin (HA) gene, complete cds: https://www.ncbi.nlm.nih.gov/nuccore/MK630770.1?report=fasta 
+# Influenza A virus (A/Alabama/06/2019(H1N1)) segment 4 hemagglutinin (HA) gene, complete cds: https://www.ncbi.nlm.nih.gov/nuccore/MK630778.1?report=fasta 
+# Influenza A virus (A/Alabama/09/2019(H1N1)) segment 4 hemagglutinin (HA) gene, complete cds: https://www.ncbi.nlm.nih.gov/nuccore/MK772909.1?report=fasta 
+# Influenza A virus (A/Alabama/12/2019(H1N1)) segment 4 hemagglutinin (HA) gene, complete cds: https://www.ncbi.nlm.nih.gov/nuccore/MK772917.1?report=fasta 
+# Influenza A virus (A/Alabama/17/2019(H1N1)) segment 4 hemagglutinin (HA) gene, complete cds: https://www.ncbi.nlm.nih.gov/nuccore/MK855605.1?report=fasta 
+# Influenza A virus (A/Alabama/19/2019(H1N1)) segment 4 hemagglutinin (HA) gene, complete cds: https://www.ncbi.nlm.nih.gov/nuccore/MK999442.1?report=fasta 
+# Influenza A virus (A/Alabama/25/2019(H1N1)) segment 4 hemagglutinin (HA) gene, complete cds: https://www.ncbi.nlm.nih.gov/nuccore/MT034585.1?report=fasta 
+# Influenza A virus (A/Alabama/26/2019(H1N1)) segment 4 hemagglutinin (HA) gene, complete cds: https://www.ncbi.nlm.nih.gov/nuccore/MT034599.1?report=fasta 
+# Influenza A virus (A/Alabama/27/2019(H1N1)) segment 4 hemagglutinin (HA) gene, complete cds: https://www.ncbi.nlm.nih.gov/nuccore/MT167169.1?report=fasta 
+# Influenza A virus (A/Alabama/28/2019(H1N1)) segment 4 hemagglutinin (HA) gene, complete cds: https://www.ncbi.nlm.nih.gov/nuccore/MT167193.1?report=fasta 
+# Influenza A virus (A/Alaska/02/2019(H1N1)) segment 4 hemagglutinin (HA) gene, complete cds: https://www.ncbi.nlm.nih.gov/nuccore/MK630786.1?report=fasta 
+# Influenza A virus (A/Alaska/03/2019(H1N1)) segment 4 hemagglutinin (HA) gene, complete cds: https://www.ncbi.nlm.nih.gov/nuccore/MK630794.1?report=fasta 
