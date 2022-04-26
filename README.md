@@ -38,3 +38,5 @@
 # Influenza A virus (A/Alabama/10/2020(H1N1)) segment 4 hemagglutinin (HA) gene, complete cds: https://www.ncbi.nlm.nih.gov/nuccore/MT466104.1?report=fasta 
 # Influenza A virus (A/Alaska/01/2020(H1N1)) segment 4 hemagglutinin (HA) gene, complete cds: https://www.ncbi.nlm.nih.gov/nuccore/MT330576.1?report=fasta 
 # Influenza A virus (A/Alaska/02/2020(H1N1)) segment 4 hemagglutinin (HA) gene, complete cds: https://www.ncbi.nlm.nih.gov/nuccore/MT330584.1?report=fasta 
+
+# clustalw resources: https://www.genome.jp/tools/clustalw/clustalw_help.html#input_sequence
