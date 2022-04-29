@@ -46,3 +46,4 @@
 ## Findings
 
 # https://www.genome.jp/tools-bin/clustalw this is what we used to align our sequences above
+
