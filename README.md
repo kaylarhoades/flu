@@ -43,6 +43,8 @@
 
 ## Background
 ## Methods
+### ![clutalw](<img width="696" alt="Clustalw" src="https://user-images.githubusercontent.com/103778823/166059116-04518171-8c2d-4ba4-80a6-6cec76ca8c55.png">)
+
 ## Findings
 
 # https://www.genome.jp/tools-bin/clustalw this is what we used to align our sequences above
