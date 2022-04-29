@@ -36,7 +36,7 @@
 ## Influenza A virus (A/Alaska/02/2020(H1N1)) segment 4 hemagglutinin (HA) gene, complete cds: https://www.ncbi.nlm.nih.gov/nuccore/MT330584.1?report=fasta 
 
 ### clustalw resources: https://www.genome.jp/tools/clustalw/clustalw_help.html#input_sequence
-
+# Relationship Between Influenza A Strains in 2019 vs 2020, with a comparasion to Avian Flu
 ## Background
 ### Influenza A is an orthomyxovirus with 8 segments of (-)ssRNA in its genome
 ### Influenza A contains two major envelope proteins that are surface antigens: hemagglutinin (HA) and neuraminidase (NA).
