@@ -33,7 +33,7 @@
 ## Background
 ### Influenza A is an orthomyxovirus with 8 segments of (-)ssRNA in its genome
 ### Influenza A contains two major envelope proteins that are surface antigens: hemagglutinin (HA) and neuraminidase (NA).
-### In this project, we're focused on hemagglutinin, which is used for attachment and composes 80% of surface proteins
+### In this project, we're focused on the hemagglutinin gene, which is used for attachment and composes 80% of surface proteins
 ### HA is responsible for binding of the virus to cell surface receptors, and it mediates liberation of the viral genome into the cytoplasm through membrane fusion https://pubmed.ncbi.nlm.nih.gov/9360372/#:~:text=The%20hemagglutinin(HA)%20of%20influenza,the%20cytoplasm%20through%20membrane%20fusion. 
 
 ## Methods
