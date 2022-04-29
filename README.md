@@ -43,7 +43,8 @@
 
 ## Background
 ## Methods
-### ![clutalw](<img width="696" alt="Clustalw" src="https://user-images.githubusercontent.com/103778823/166059116-04518171-8c2d-4ba4-80a6-6cec76ca8c55.png">)
+### ![clutalw](<img width="696" alt="Clustalw" src="https://user-images.githubusercontent.com/103778823/166059332-dc475f1f-d5df-4518-86cd-0c35373b432a.png">)
+
 
 ## Findings
 
