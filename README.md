@@ -43,7 +43,7 @@
 
 ## Background
 ## Methods
-### ![clustalw](<img width="696" alt="Clustalw" src="https://user-images.githubusercontent.com/103778823/166059778-93969574-4280-446a-a8cc-f9696a74c96a.png">)
+### ![clustalw](https://github.com/kaylarhoades/flu/blob/main/Clustalw.png)
 
 
 
