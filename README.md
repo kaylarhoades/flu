@@ -38,6 +38,7 @@
 
 ## Methods
 ### Gathered 12 Influenza A atrains from 2019 and 12 from 2020, then aligned the sequences, ran them on clustalw to create a tree showing the relationship between the strains. Then we repeated this process in order to compare with an outgroup, an avian flu sequence. A second tree was made with the outgroup shown.
+##### https://www.genome.jp/tools-bin/clustalw this is the website we used to align our sequences, page shown below
 ### ![clustalw](https://github.com/kaylarhoades/flu/blob/main/Clustalw.png)
 
 
@@ -47,5 +48,3 @@
 ### ![influenza_phylogenic_tree](https://github.com/kaylarhoades/flu/blob/main/Influenza%20Phylogenic%20Tree.png)
 ### Avian strain phylogenic tree
 ### ![avian_strain](https://github.com/kaylarhoades/flu/blob/main/Avian%20Strain%20Phylogenic%20Tree.png)
-##### https://www.genome.jp/tools-bin/clustalw this is what we used to align our sequences above
-
