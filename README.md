@@ -42,7 +42,9 @@
 ### Influenza A contains two major envelope proteins that are surface antigens: hemagglutinin (HA) and neuraminidase (NA).
 ### In this project, we're focused on hemagglutinin, which is used for attachment and composes 80% of surface proteins
 ### HA is responsible for binding of the virus to cell surface receptors, and it mediates liberation of the viral genome into the cytoplasm through membrane fusion https://pubmed.ncbi.nlm.nih.gov/9360372/#:~:text=The%20hemagglutinin(HA)%20of%20influenza,the%20cytoplasm%20through%20membrane%20fusion. 
+
 ## Methods
+### Gathered 12 Influenza A atrains from 2019 and 12 from 2020, then aligned the sequences, ran them on clustalw to create a tree showing the relationship between the strains. Then we repeated this process in order to compare with an outgroup, an avian flu sequence. A second tree was made with the outgroup shown.
 ### ![clustalw](https://github.com/kaylarhoades/flu/blob/main/Clustalw.png)
 
 
