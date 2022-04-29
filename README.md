@@ -48,6 +48,7 @@
 
 
 ## Findings
+### ![influenza_phylogenic_tree](https://github.com/kaylarhoades/flu/blob/main/Influenza%20Phylogenic%20Tree.png)
 
 # https://www.genome.jp/tools-bin/clustalw this is what we used to align our sequences above
 
