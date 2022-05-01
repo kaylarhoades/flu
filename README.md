@@ -48,3 +48,5 @@
 ### ![influenza_phylogenic_tree](https://github.com/kaylarhoades/flu/blob/main/Influenza%20Phylogenic%20Tree.png)
 ### Avian strain phylogenic tree
 ### ![avian_strain](https://github.com/kaylarhoades/flu/blob/main/Avian%20Strain%20Phylogenic%20Tree.png)
+### Conclusion
+#### We found that all of our Influenza A strains from 2019 and 2020 were all from a common ancestor at some point in time. We also found that the avain flu was not related to the Influenza A strains we found
