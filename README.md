@@ -52,8 +52,9 @@
 ### Alignment of one 2019 vs one 2020 <img width="1314" alt="Screen Shot 2022-05-05 at 2 49 51 PM" src="https://user-images.githubusercontent.com/103778850/167003747-81ae05ea-7d8a-4316-8216-b94ba0ce75da.png">
 ## Results
 The teal arrow points to the avian flu strain, the outgroup. The branches highlighted in red are associated with the 2019 samples and the ones highlighted in green were collected in 2020. The numbers located in the tree indicate bootstrap values which are a measure of reliability of the split of each branch. 
+<img width="405" alt="Screen Shot 2022-05-11 at 12 37 28 PM" src="https://user-images.githubusercontent.com/103778835/167902141-ff913c5e-da6a-4acc-bdc7-5c7ae1352f3f.png">
 
-<img width="367" alt="Screen Shot 2022-05-11 at 12 33 59 PM" src="https://user-images.githubusercontent.com/103778835/167901429-d0b5f929-d90f-490e-adc0-1055ed6edbf6.png">
+
 
 ##### Used snap gene to perform a pair wise alignment of a sequence from 2019 and a sequence from 2020. It showed that there weren't many differences besides a few SNPS from 2019 to 2020. There were no major insertions or deletions. The sequences were more similar to each other than we expected. 
 
