@@ -50,5 +50,7 @@
 ### ![avian_strain](https://github.com/kaylarhoades/flu/blob/main/Avian%20Strain%20Phylogenic%20Tree.png)
 
 ### Alignment of one 2019 vs one 2020 <img width="1314" alt="Screen Shot 2022-05-05 at 2 49 51 PM" src="https://user-images.githubusercontent.com/103778850/167003747-81ae05ea-7d8a-4316-8216-b94ba0ce75da.png">
+##### Used snap gene to perform a pair wise alignment of a sequence from 2019 and a sequence from 2020. It showed that there weren't many differences besides a few SNPS from 2019 to 2020. There were no major insertions or deletions. The sequences were more similar to each other than we expected. 
+
 ### Conclusion
 #### We found that all of our Influenza A strains from 2019 and 2020 were all from a common ancestor at some point in time. We also found that the avain flu was not related to the Influenza A strains we found. This could be used in further studies that compares Influenza A strains that arrive in the future.
