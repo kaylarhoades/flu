@@ -33,8 +33,11 @@
 ## Background
 ### Influenza A is an orthomyxovirus with 8 segments of (-)ssRNA in its genome
 ### Influenza A contains two major envelope proteins that are surface antigens: hemagglutinin (HA) and neuraminidase (NA).
-### In this project, we're focused on the hemagglutinin gene, which is used for attachment and composes 80% of surface proteins
-### HA is responsible for binding of the virus to cell surface receptors, and it mediates liberation of the viral genome into the cytoplasm through membrane fusion https://pubmed.ncbi.nlm.nih.gov/9360372/#:~:text=The%20hemagglutinin(HA)%20of%20influenza,the%20cytoplasm%20through%20membrane%20fusion. 
+### There are 18 subtypes of HA and 11 subtypes of NA. This project focused on the sequences of segment 4 of the HA gene in Influenza A (H1N1).
+### The hemagglutanin gene is used for attachment and composes 80% of surface proteins.
+### HA is responsible for binding of the virus to cell surface receptors and inserts the genome into the host cell cytoplasm through membrane fusion.
+### https://pubmed.ncbi.nlm.nih.gov/9360372/#:~:text=The%20hemagglutinin(HA)%20of%20influenza,the%20cytoplasm%20through%20membrane%20fusion. 
+### Additionally, we focused on a comparison to the Avian flu (H5N1) outgroup which is an Influenza A infection in birds. 
 
 ## Methods
 ### Gathered 12 Influenza A atrains from 2019 and 12 from 2020, then aligned the sequences, ran them on clustalw to create a tree showing the relationship between the strains. Then we repeated this process in order to compare with an outgroup, an avian flu sequence. A second tree was made with the outgroup shown.
